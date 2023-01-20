@@ -1,0 +1,76 @@
+body{
+    
+}
+.spfont{
+    font-size: 2.2rem;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+#navbar{
+    flex-direction:column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 4px 6px;
+    border-radius: 3px;
+}
+#content{
+    height: 290px;
+}
+content::before{
+    height: 700px;
+}
+#content p{
+    font-size:1rem;
+}
+section h1{
+    font-size: 2rem;
+}
+#content-div{
+   
+}
+button{
+    padding: 10px;
+}
+#servicescont{
+
+}
+#services{
+    flex-direction: column;
+}
+#services .box {
+    padding: 10px;
+    margin: 20px 14px;
+}
+#services .box img{
+    transform: scale(0.88);
+}
+#clientsec{
+    height: auto;
+}
+#clients{
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+#clients img{
+    /* height: 80px;
+    width: 120px; */
+    padding: 0px;
+    height: 80px;
+    margin: 2px 20px;
+}
+#formm{
+
+}
+#contact{
+    font-size: 1rem;
+}
+#contact input,#contact textarea{
+    padding:2px;
+    margin: 8px;
+    font-size:0.8rem;
+    border: 1.6px solid black;
+    background-color: rgb(255, 249, 241);
+}
