@@ -46,6 +46,7 @@ button{
 }
 #services .box img{
     transform: scale(0.88);
+    height: 120px;
 }
 #clientsec{
     height: auto;
