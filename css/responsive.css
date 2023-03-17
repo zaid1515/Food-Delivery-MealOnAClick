@@ -1,6 +1,4 @@
-body{
-    
-}
+
 .spfont{
     font-size: 2.2rem;
 }
@@ -28,14 +26,12 @@ content::before{
 section h1{
     font-size: 2rem;
 }
-#content-div{
-   
-}
+
 button{
     padding: 10px;
 }
 #servicescont{
-
+    flex-wrap: wrap;
 }
 #services{
     flex-direction: column;
@@ -62,9 +58,7 @@ button{
     height: 80px;
     margin: 2px 20px;
 }
-#formm{
 
-}
 #contact{
     font-size: 1rem;
 }
